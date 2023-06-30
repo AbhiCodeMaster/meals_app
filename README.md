@@ -1,5 +1,4 @@
-🪧 Demo :-  https://akshaymealapp.netlify.app
-🪧 Demo :-  https://akshay0326.github.io/Meal-App-Find-Your-Meal/
+https://meals-app-theta.vercel.app/
 
 ---
 About the Project :-
@@ -60,9 +59,9 @@ Nothing crazy just download the zip and run LIVE_SERVER.
 
 🙎 Contact .
 
-    🔗 Author - @Akshay Kumar - akshaykumarsinha0326@gmail.com - +91-7562863220
+    🔗 Author - abhinav chauhan - ac825473@gmail.com 
 
-    ✅ Linkedin ✅ https://www.linkedin.com/in/itsakshaykrs/ ✅
-    ✅ Github   ✅ https://github.com/Akshay0326             ✅
+
+    ✅ Github   ✅ https://github.com/AbhiCodeMaster             ✅
 
 ---
